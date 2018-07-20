@@ -8,7 +8,7 @@ The goal of this project was to develop a collaborative-based anime recommender 
 </p>
 
 
-* Overall, SVD performed best on recommending ranked list of relevent anime for users based on nDCG (ranking accuracy metric) without sacrificing too much speed
+* SVD performed best on recommending ranked list of relevent anime for users based on nDCG (ranking accuracy metric) without sacrificing too much speed
 * KNNWithMeans performed best on finding Niche listings
 
 

@@ -4,7 +4,7 @@ The goal of this project was to develop a collaborative-based anime recommender 
 
 ![model comparison & evalaution](/graph/recQualityPlot3.png)
 <p align="center">
-<img width="650" height="150" src="/graph/Screen%20Shot%202018-07-20%20at%201.56.12%20PM.png">   
+<img width="700" height="200" src="/graph/Screen%20Shot%202018-07-20%20at%201.56.12%20PM.png">   
 </p>
 
 

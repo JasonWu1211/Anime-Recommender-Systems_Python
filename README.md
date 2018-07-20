@@ -18,8 +18,8 @@ Scripts:
   - [Model Evaluation & Selection](/Jupyter%20notebook/Jason_Anime_recommender_system_Model%20Evaluation_and_Comparsion.ipynb)
 - Python
   - reusable data preproccesing program
-  ```python
-  #function for subsetting the anime : certain type & genre(if not None)
+```
+#function for subsetting the anime : certain type & genre(if not None)
 
 def Anime_subset(anime_df,rating_df,anime_type,anime_genre=None):
     '''
@@ -200,5 +200,4 @@ def data_cleaner(df,n=10,user='user_id',item='anime_id'):
     print('Data is cleaned!')
     
     return cleaned_data
-  ```
-  -
+```

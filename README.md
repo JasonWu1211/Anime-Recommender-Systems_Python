@@ -4,10 +4,9 @@ The goal of this project was to develop a collaborative-based anime recommender 
 
 
 ![model comparison & evalaution](/graph/recQualityPlot3.png)
-![model comparison & evalaution](/graph/Screen%20Shot%202018-07-20%20at%201.56.12%20PM.png)
 
 <p align="center">
-<img width="460" height="300" src="/graph/Screen%20Shot%202018-07-20%20at%201.56.12%20PM.png">   
+<img width="600" height="300" src="/graph/Screen%20Shot%202018-07-20%20at%201.56.12%20PM.png">   
 </p>
 
 * Overall, SVD performed best on recommending ranked list of relevent anime for users based on nDCG (ranking accuracy metric) without sacrifing too much speed

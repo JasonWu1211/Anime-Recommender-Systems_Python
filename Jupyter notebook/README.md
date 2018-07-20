@@ -1,4 +1,4 @@
 * Exploratory Analysis
 * Data Preproccesing
-* Model Training
+* Model Training & Validation
 * Model Evaluation & selection
